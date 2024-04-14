@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MOD8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de2ed95b2cf82be84b34600cc62a4ed733e16c47")]
 [assembly: System.Reflection.AssemblyProductAttribute("MOD8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MOD8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

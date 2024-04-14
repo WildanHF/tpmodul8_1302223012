@@ -1,0 +1,15 @@
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\obj\Debug\net8.0\MOD8.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\obj\Debug\net8.0\MOD8.AssemblyInfoInputs.cache
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\obj\Debug\net8.0\MOD8.AssemblyInfo.cs
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\obj\Debug\net8.0\MOD8.csproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\obj\Debug\net8.0\MOD8.sourcelink.json
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\bin\Debug\net8.0\MOD8.exe
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\bin\Debug\net8.0\MOD8.deps.json
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\bin\Debug\net8.0\MOD8.runtimeconfig.json
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\bin\Debug\net8.0\MOD8.dll
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\bin\Debug\net8.0\MOD8.pdb
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\obj\Debug\net8.0\MOD8.dll
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\obj\Debug\net8.0\refint\MOD8.dll
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\obj\Debug\net8.0\MOD8.pdb
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\obj\Debug\net8.0\MOD8.genruntimeconfig.cache
+D:\SEMESTER 4\PRAK KPL\TPMOD8\MOD8\obj\Debug\net8.0\ref\MOD8.dll

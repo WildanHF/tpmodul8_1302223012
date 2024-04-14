@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D1918079-341C-46A7-8FB8-19EE1998D490}|MOD8.csproj|d:\\semester 4\\prak kpl\\tpmod8\\mod8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1918079-341C-46A7-8FB8-19EE1998D490}|MOD8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1918079-341C-46A7-8FB8-19EE1998D490}|MOD8.csproj|d:\\semester 4\\prak kpl\\tpmod8\\mod8\\covidconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1918079-341C-46A7-8FB8-19EE1998D490}|MOD8.csproj|solutionrelative:covidconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.json",
+              "DocumentMoniker": "D:\\SEMESTER 4\\PRAK KPL\\TPMOD8\\MOD8\\CovidConfig.json",
+              "RelativeDocumentMoniker": "CovidConfig.json",
+              "ToolTip": "D:\\SEMESTER 4\\PRAK KPL\\TPMOD8\\MOD8\\CovidConfig.json",
+              "RelativeToolTip": "CovidConfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T17:36:33.589Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +45,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\SEMESTER 4\\PRAK KPL\\TPMOD8\\MOD8\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T16:58:30.609Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
